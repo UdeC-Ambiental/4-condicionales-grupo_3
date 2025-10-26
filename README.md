@@ -46,10 +46,10 @@ Archivo base: `data/muestras_calidad_agua.csv`
 | Notebook | Descripción | Responsable |
 |-----------|-------------|-------------|
 | `0_ejemplo_clase_condicionales.ipynb` | Ejemplo completo de la clase | Todos |
-| `reto1_temperatura.ipynb` | Clasificación térmica y riesgo | Sebastian |
-| `reto2_ph.ipynb` | Evaluación de pH y alerta química | Nicol |
-| `reto3_oxigeno.ipynb` | Análisis biológico por oxígeno | Antonio |
-| `reto4_integracion.ipynb` | Diagnóstico final integrando variables | Karen_Mariana |
+| `reto1_temperatura.ipynb` | Clasificación térmica y riesgo | karen |
+| `reto2_ph.ipynb` | Evaluación de pH y alerta química | mariana |
+| `reto3_oxigeno.ipynb` | Análisis biológico por oxígeno | nicol |
+| `reto4_integracion.ipynb` | Diagnóstico final integrando variables | antonio_sebastian|
 
 **Entrega:** cada estudiante descarga su notebook (**File → Download**) y lo entrega por Moodle o lo sube a un fork.
 
